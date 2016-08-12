@@ -997,3 +997,8 @@
 [Fri Aug 12 16:34:27.857329 2016] [:error] [pid 1053] [client 107.151.226.203:2016] script '/var/www/html/azenv.php' not found or unable to stat
 [Fri Aug 12 16:45:53.558733 2016] [:error] [pid 1321] [client 23.251.63.45:1701] script '/var/www/html/azenv.php' not found or unable to stat
 [Fri Aug 12 17:05:14.569883 2016] [:error] [pid 1055] [client 182.254.154.72:55215] script '/var/www/html/check_proxy.php' not found or unable to stat
+[Fri Aug 12 17:55:37.123669 2016] [:error] [pid 1437] [client 107.151.226.203:3541] script '/var/www/html/azenv.php' not found or unable to stat
+[Fri Aug 12 18:33:21.737756 2016] [:error] [pid 1053] [client 23.251.63.45:3353] script '/var/www/html/av.php' not found or unable to stat
+[Fri Aug 12 19:28:16.173572 2016] [:error] [pid 1051] [client 107.151.226.203:3409] script '/var/www/html/azenv.php' not found or unable to stat
+[Fri Aug 12 19:51:16.512534 2016] [:error] [pid 1059] [client 23.251.63.45:2609] script '/var/www/html/azenv.php' not found or unable to stat
+[Fri Aug 12 20:17:27.671611 2016] [:error] [pid 1061] [client 23.251.63.45:4283] script '/var/www/html/azenv.php' not found or unable to stat
